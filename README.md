@@ -1,1 +1,1 @@
-#Desafio
+Parte inicial do desafio com Fetch para consumir uma API de nomes random, limitar ela a apenas 5 nomes por vez, fazer o .map para separar apenas os nomes e jogar ela no navegador para testar via uma página html linkada ao código js
